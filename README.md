@@ -1,2 +1,2 @@
-# ECOP06-13
-ECOP06 Aplicação Teste do Streamlit
+# ECOP06_Flask3
+ECOP06 Aplicação Web pelo Framework Flask
